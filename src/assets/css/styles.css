@@ -1,0 +1,16 @@
+#gotop {
+    display: block;
+    position: fixed;
+    bottom: 20px; 
+    right: 30px; 
+    z-index: 99;
+    cursor: pointer;
+    color: white;
+}
+
+.icon{
+    color: white;
+}
+.icon:hover{
+    color: rgb(224, 213, 64);
+}
